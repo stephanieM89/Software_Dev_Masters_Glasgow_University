@@ -1,10 +1,10 @@
-/** hannah 
+/**
  * Defines an object representing a single fitness class
  */ 
  
- 
 public class FitnessClass implements Comparable<FitnessClass> { 
-	 //number of weeks of attendance monitoring: 5
+	
+    // number of weeks of attendance monitoring: 5
     private final int WEEKS = 5;
    
     //instance variables: classID, course, tutor, time, attendance
@@ -19,6 +19,7 @@ public class FitnessClass implements Comparable<FitnessClass> {
     {
        
     }
+	
     //constructor
     public FitnessClass(String id, String courseName, String tutorName, int timeBeg, int[] attendanceNum)
     {
