@@ -9,6 +9,7 @@ public class AssEx3
      */
     public static void main(String[] args)
     {
+        // Creates the main JFrame and sets it to visible 
         SportsCentreGUI display = new SportsCentreGUI();
         display.setVisible(true);
    
