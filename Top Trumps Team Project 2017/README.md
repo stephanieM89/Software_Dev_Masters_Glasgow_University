@@ -6,15 +6,13 @@ This program implmements a version of Top Trumps.  It reads in a text file listi
 
 The report explains the user stories and sprint planning while also tracking the group's progress through the use of a Burn Down Chart.  All assumptions made regarding the game logic are introduced and a wide variety of test serves to demonstrate the game's functionality.
 
-  **Screenshots of sprint planning
-
+  **Screenshots of sprint planning**
   <p align="center">
-  <img src="https://user-images.githubusercontent.com/31744964/51497545-598ccb80-1dbb-11e9-932d-f1ef67580e2f.JPG">
-
+  <img src="https://user-images.githubusercontent.com/31744964/51497545-598ccb80-1dbb-11e9-932d-f1ef67580e2f.JPG" height="300" width="400">
 
   <img src="https://user-images.githubusercontent.com/31744964/51497698-cd2ed880-1dbb-11e9-9bfb-df4f9abe51bb.JPG">
   
-  **Screenshots of user stories
+  **Screenshots of user stories**
   
   <img src="https://user-images.githubusercontent.com/31744964/51497727-ec2d6a80-1dbb-11e9-9624-ad054b5b0022.JPG">
   
