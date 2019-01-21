@@ -11,6 +11,8 @@ They require an interface that will allow a sales assistant to enter details of 
 customer balance as appropriate.
 
 **Screenshots**
+
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/31744964/51498478-8f7f7f00-1dbe-11e9-8796-f7d15cdb8eb8.JPG"><br/><br/>
 <img src="https://user-images.githubusercontent.com/31744964/51498623-16345c00-1dbf-11e9-9303-19fc9af27d8d.JPG"><br/><br/>
