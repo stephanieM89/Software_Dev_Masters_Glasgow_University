@@ -8,8 +8,9 @@ The report explains the user stories and sprint planning while also tracking the
 
 Screenshots
 
-<img src="https://user-images.githubusercontent.com/31744964/51497545-598ccb80-1dbb-11e9-932d-f1ef67580e2f.JPG">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/31744964/51497545-598ccb80-1dbb-11e9-932d-f1ef67580e2f.JPG">
 
-![capture](https://user-images.githubusercontent.com/31744964/51497545-598ccb80-1dbb-11e9-932d-f1ef67580e2f.JPG)
 
 ![screenshot](https://user-images.githubusercontent.com/31744964/51497013-b5eeeb80-1db9-11e9-99c1-53abfe2e5a14.JPG)
+</p>
