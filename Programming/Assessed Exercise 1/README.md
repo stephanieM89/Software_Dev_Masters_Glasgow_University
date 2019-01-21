@@ -14,7 +14,10 @@ customer balance as appropriate.
 <p align="center">
 
 <img src="https://user-images.githubusercontent.com/31744964/51498478-8f7f7f00-1dbe-11e9-8796-f7d15cdb8eb8.JPG">
+<br/>
 <img src="https://user-images.githubusercontent.com/31744964/51498479-90b0ac00-1dbe-11e9-8a19-61dbeb5dd57d.JPG">
+<br/>
 <img src="https://user-images.githubusercontent.com/31744964/51498480-91494280-1dbe-11e9-8f54-21a82d636851.JPG">
+<br/>
 <img src="https://user-images.githubusercontent.com/31744964/51498482-927a6f80-1dbe-11e9-8e73-15212742751a.JPG">
 </p>
