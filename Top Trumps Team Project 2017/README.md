@@ -21,5 +21,4 @@ The report explains the user stories and sprint planning while also tracking the
   **Screenshots from the Java application**
   <p align="center">
   <img src="https://user-images.githubusercontent.com/31744964/51497013-b5eeeb80-1db9-11e9-99c1-53abfe2e5a14.JPG" height="400" width="600">
-
- </p>
+  </p>
