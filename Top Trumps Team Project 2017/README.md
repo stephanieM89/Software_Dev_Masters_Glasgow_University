@@ -11,6 +11,9 @@ Screenshots
 <p align="center">
   <img src="https://user-images.githubusercontent.com/31744964/51497545-598ccb80-1dbb-11e9-932d-f1ef67580e2f.JPG">
 
+  <img src="https://user-images.githubusercontent.com/31744964/51497013-b5eeeb80-1db9-11e9-99c1-53abfe2e5a14.JPG">
 
-![screenshot](https://user-images.githubusercontent.com/31744964/51497013-b5eeeb80-1db9-11e9-99c1-53abfe2e5a14.JPG)
+  <img src="https://user-images.githubusercontent.com/31744964/51497698-cd2ed880-1dbb-11e9-9bfb-df4f9abe51bb.JPG">
+  
+  <img src="https://user-images.githubusercontent.com/31744964/51497727-ec2d6a80-1dbb-11e9-9624-ad054b5b0022.JPG">
 </p>
