@@ -1,11 +1,11 @@
 **MSc Software Development Programming 2016-2017 Assessed Exercise 1**
 
-***This assessed exercise involved creating a purchase/return application for a wine merchant
+***This assessed exercise involved creating a purchase/return application for a wine merchant***
 
-****Application Specification
+****Application Specification****
 
 *****Lilybank Wine Merchants sells bottles of wine at a variety of prices on a sale or return basis.  Their customers are allowed to trade 
 on credit (allowed to build up a debt to the wine merchant which can be settled later), and have a Customer Account record in which 
 details of their balance owed to the wine merchants are stored.  The wine merchants want to automate their invoicing procedures.  
 They require an interface that will allow a sales assistant to enter details of a series of sales and/or returns, and update the
-customer balance as appropriate.
+customer balance as appropriate.*****
