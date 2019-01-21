@@ -15,9 +15,9 @@ customer balance as appropriate.
 
 <img src="https://user-images.githubusercontent.com/31744964/51498478-8f7f7f00-1dbe-11e9-8796-f7d15cdb8eb8.JPG" hspace="30">
 
-<img src="https://user-images.githubusercontent.com/31744964/51498479-90b0ac00-1dbe-11e9-8a19-61dbeb5dd57d.JPG" hspace="30">
-<br/><br/>
+<img src="https://user-images.githubusercontent.com/31744964/51498623-16345c00-1dbf-11e9-9303-19fc9af27d8d.JPG" hspace="30">
+
 <img src="https://user-images.githubusercontent.com/31744964/51498480-91494280-1dbe-11e9-8f54-21a82d636851.JPG" hspace="30">
-<br/><br/>
+
 <img src="https://user-images.githubusercontent.com/31744964/51498482-927a6f80-1dbe-11e9-8e73-15212742751a.JPG" hspace="30">
 </p>
