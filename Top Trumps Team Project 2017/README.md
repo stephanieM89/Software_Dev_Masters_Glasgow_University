@@ -1,5 +1,3 @@
-#TopTrumps
-
 **Top Trumps Team Project 2017**
 
 Description
