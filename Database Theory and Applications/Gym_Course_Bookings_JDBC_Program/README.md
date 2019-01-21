@@ -24,3 +24,8 @@ to view the members booked on a course.
 Screenshot
 
 ![gym](https://user-images.githubusercontent.com/31744964/51500760-2ea87480-1dc7-11e9-92dc-5558cd6c5947.JPG)
+
+
+
+Glasgow University - Databases Course Information:
+https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/?card=course&code=COMPSCI5076
