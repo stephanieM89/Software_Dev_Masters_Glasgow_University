@@ -2,7 +2,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * This abstract class sets up the general world environment
- * @author Susie Smart: 2286107s
+ * @author Stephanie Man 2286857m
  *
  */
 public abstract class  AbstractWorld {
