@@ -8,9 +8,9 @@ The Boyd-Orr Sports Centre has decided that it wishes to encourage the participa
 An application is required to display the current class schedule and enable the monitoring and replacement to take place.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/31744964/51500031-77aaf980-1dc4-11e9-8bce-babd67fd3bc7.JPG" height="250" width="300"><br/><br/><br/>
+<img src="https://user-images.githubusercontent.com/31744964/51500031-77aaf980-1dc4-11e9-8bce-babd67fd3bc7.JPG" height="200" width="250"><br/><br/><br/>
 
-<img src="https://user-images.githubusercontent.com/31744964/51500033-78dc2680-1dc4-11e9-86b0-c18ced224567.JPG" height="250" width="300">
+<img src="https://user-images.githubusercontent.com/31744964/51500033-78dc2680-1dc4-11e9-86b0-c18ced224567.JPG" height="20" width="250">
 
 
 </p>
