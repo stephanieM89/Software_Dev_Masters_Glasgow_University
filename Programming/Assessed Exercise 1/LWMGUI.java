@@ -18,7 +18,7 @@ public class LWMGUI extends JFrame implements ActionListener {
 	private double winePrice;
 	private int wineQuantity;
 	
-	private static final int FRAME_HEIGHT = 400;
+	private static final int FRAME_HEIGHT = 300;
 	private static final int FRAME_WIDTH = 500;
 
 	// Creates the GUI and passes in customer account details
@@ -54,11 +54,11 @@ public class LWMGUI extends JFrame implements ActionListener {
 	private void updateBalance() {
 		double customerBalance = customerAccount.getCustomerBalance();
 		if(customerBalance<0) {
-			transactionField.setText(String.format("£%.2f", customerAccount.getTransactionAmount()));
-			balanceField.setText(String.format("£%.2f CR", -(customerAccount.getCustomerBalance())));
+			transactionField.setText(String.format("Â£%.2f", customerAccount.getTransactionAmount()));
+			balanceField.setText(String.format("Â£%.2f CR", -(customerAccount.getCustomerBalance())));
 		} else {
-			transactionField.setText(String.format("£%.2f", customerAccount.getTransactionAmount()));
-			balanceField.setText(String.format("£%.2f", customerAccount.getCustomerBalance()));
+			transactionField.setText(String.format("Â£%.2f", customerAccount.getTransactionAmount()));
+			balanceField.setText(String.format("Â£%.2f", customerAccount.getCustomerBalance()));
 		}
 	}
 	
