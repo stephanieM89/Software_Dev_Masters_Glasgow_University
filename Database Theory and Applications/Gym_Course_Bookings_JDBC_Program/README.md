@@ -21,10 +21,6 @@ of gym members booked on each course  It should allow the user to book a member 
 to view the members booked on a course.
 
 
-Screenshot
-
-![gym](https://user-images.githubusercontent.com/31744964/51500760-2ea87480-1dc7-11e9-92dc-5558cd6c5947.JPG)
-
 
 
 Glasgow University - Databases Course Information:
